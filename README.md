@@ -3,13 +3,7 @@
 ![Build Status](https://github.com/hubmapconsortium/vitessce-image-loader/workflows/build-test/badge.svg?branch=master)
 ![Top Language Badge](https://img.shields.io/github/languages/top/hubmapconsortium/vitessce-image-loader)
 
-Utilities for loading single & multichannel zarr and tiff images
-
-## Installation 
-
-```bash
-$ npm install @hubmap/vitessce-image-loader
-```
+Utilities for loading single & multichannel zarr and tiff images. 
 
 ## Usage
 ### zarr
